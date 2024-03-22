@@ -1,0 +1,17 @@
+{
+  "name": "smart_simple_calculator",
+  "version": "1.0.1",
+  "description": "simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
